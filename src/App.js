@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <>
-      <h1 className='title'>Prumme Sorts</h1>
+      <h1 className='w-full text-center'>Prumme Sorts</h1>
     </>
   );
 }
